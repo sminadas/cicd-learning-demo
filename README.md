@@ -1,0 +1,1 @@
+# CI/CD Learning Demo\n\nThis is a sample project for learning Git, Docker, and Jenkins.\n\nVersion 1: Initial application
